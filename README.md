@@ -9,7 +9,7 @@
 </div>
 
 
-## Hi there! My name is Zhenya and I'm a Frontend Developer
+# Hi there! My name is Zhenya and I'm a Frontend Developer
 
 ##### Zhenya Goroh
 Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
