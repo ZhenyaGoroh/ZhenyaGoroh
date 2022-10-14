@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Header](https://github.com/ZhenyaGoroh/ZhenyaGoroh/blob/main/assets/hiimg1.png)](https://github.com/ZhenyaGoroh)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
