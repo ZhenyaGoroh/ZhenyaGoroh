@@ -13,7 +13,7 @@
 ###### Currently lives is Minsk, Belarus
 
 Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
-
+<hr>
 ## Hard Skils:
 <a href = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,6 +24,9 @@ Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML,
 <a href = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </a>
+<a href = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
 <a href = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
@@ -31,9 +34,41 @@ Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML,
 <a href = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </a>
+##### Code editor
 
+ <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<hr>
+## Soft Skils:
 
+- Hardworking
+- Creative
+- Critical thinking
+- Easily trained
+- Open to new
+<hr>
 
-#### Woking in
+## Languages:
+<a href = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img src = "https://img.shields.io/badge/Russian-Native-Green?style=for-the-badge">
+</a>
+<a href = "https://www.efset.org/cert/pKJrRh">
+    <img src = "https://img.shields.io/badge/English-C1-Green?style=for-the-badge">
+</a>
+<hr>
 
-<img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+## Education
+
+- Belarusian State University of Informatics and Radioelectronics (BSUIR) 2021-2025
+
+<hr>
+
+### Additional Information
+
+- Studing Frontend dev everyday.
+- Learning English with "Empower C1: Student's book and Workbook by Cambridge publishing"
+
+<hr>
+<div align = "center"> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyagoroh">
+</div>
+
