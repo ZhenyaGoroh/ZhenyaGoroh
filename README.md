@@ -14,6 +14,6 @@
 ##### Zhenya Goroh
 Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
 
-<img src = "">
+<img src = "https://github.com/ZhenyaGoroh/ZhenyaGoroh/blob/main/assets/location.png">
 
 
