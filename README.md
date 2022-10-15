@@ -60,13 +60,13 @@ Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML,
 </a>
 <hr>
 
-## Education
+## Education:
 
 - Belarusian State University of Informatics and Radioelectronics (BSUIR) 2021-2025
 
 <hr>
 
-### Additional Information
+### Additional Information:
 
 - Studing Frontend dev everyday.
 - Learning English with "Empower C1: Student's book and Workbook by Cambridge publishing"
