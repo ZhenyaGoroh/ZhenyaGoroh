@@ -66,13 +66,7 @@ Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML,
 
 <hr>
 
-### Additional Information:
 
-- Studing Frontend dev everyday.
-- Learning English with "Empower C1: Student's book and Workbook by Cambridge publishing"
 
-<hr>
-<div align = "center"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhenyagoroh">
-</div>
+
 
