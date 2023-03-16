@@ -12,7 +12,7 @@
 
 ###### Currently lives is Minsk, Belarus
 
-Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
+Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
 
 <hr>
 
@@ -32,9 +32,11 @@ Junior Frontend Developer. Specializes in React, Redux, responsive design, HTML,
 <a href = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
-
 <a href = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+</a>
+<a href = "https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src = "https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 
 ##### Code editor:
