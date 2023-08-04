@@ -12,7 +12,8 @@
 
 ###### Currently lives is Minsk, Belarus
 
-Frontend Developer. Specializes in React, Redux, responsive design, HTML, CSS, and JavaScript. I can easily get along with other people, hardworking and easily trained.
+Front-end developer.
+I have experience with React, Next.js, Redux/Zustand, Responsive Design, HTML, CSS and JavaScript/TypeScript and am confident in my ability to complete any web development related task.
 
 <hr>
 
