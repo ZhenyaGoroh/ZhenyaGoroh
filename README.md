@@ -13,7 +13,7 @@
 ###### Currently lives is Minsk, Belarus
 
 Front-end developer.
-I have experience with React, Next.js, Redux/Zustand, Responsive Design, HTML, CSS and JavaScript/TypeScript and am confident in my ability to complete any web development related task.
+I have experience with React, Next.js, Redux/Zustand, HTML, CSS/SCSS and JavaScript/TypeScript and am confident in my ability to complete any web development related task.
 
 <hr>
 
