@@ -1,4 +1,4 @@
-#👋 Hello, I'm Zhenya!
+# 👋 Hello, I'm Zhenya!
 
-###👨‍💻 TypeScript / React Developer
+### 👨‍💻 TypeScript / React Developer
 Welcome to my GitHub profile! 🎉
