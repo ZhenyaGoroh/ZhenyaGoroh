@@ -14,4 +14,3 @@ I’m passionate about technology and innovation, always eager to learn and deve
 - 🚀 Exploring innovations
 - 💻 Developing new projects
 
-Feel free to connect with me!
