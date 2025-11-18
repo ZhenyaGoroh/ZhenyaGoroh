@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Zhenya, React / Node.js Developer!
+# Software Engineer
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/2c/61/9b/2c619b5bea0e79e79fae9c078f2e04ce.gif" width="300" />
