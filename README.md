@@ -1,7 +1,9 @@
-# Software Engineer
+<div align="center">
+  # Software Engineer
+</div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2c/61/9b/2c619b5bea0e79e79fae9c078f2e04ce.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/1e/a0/f7/1ea0f73fc0c9e8869fd32a5ff62b982f.gif" width="500" />
 </div>
 
 <div align="center">
