@@ -6,13 +6,3 @@
   <a href="https://www.reddit.com/user/ZideGO/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </div>
 
-## About Me
-
-I’m passionate about technology and innovation, always eager to learn and develop new skills. 
-
-### Interests
-- 🎶 Listening to music
-- 📚 Reading
-- 🚀 Exploring innovations
-- 💻 Developing new projects
-
