@@ -1,5 +1,5 @@
 <div align="center">
-  Software Engineer
+  <samp>Software Engineer</samp>
 </div>
 <br/>
 
