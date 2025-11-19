@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <img src="./gif1-tr.gif" width="90%" style="border-radius: 16px;" />
+  <img src="https://i.pinimg.com/originals/fa/90/31/fa90319437261c5105ffad098b8c019a.gif" width="90%" style="border-radius: 16px;" />
 </div>
 <br/>
 
