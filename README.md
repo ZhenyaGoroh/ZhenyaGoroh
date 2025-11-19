@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/11/2d/09/112d094061995bc8e6c454ad47473b28.gif" width="90%" style="border-radius: 16px;" />
+  <img src="./gif2.gif" width="90%" style="border-radius: 16px;" />
 </div>
 <br/>
 
